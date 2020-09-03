@@ -10,6 +10,7 @@ const netlifyCmsPaths = {
   },
 }
 
+
 const settings = require("./src/util/site.json")
 
 module.exports = {
@@ -79,11 +80,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Foundation`,
-        short_name: `Foundation`,
+        name: `Good Mimmy`,
+        short_name: `Good mimmy`,
         start_url: `/`,
         background_color: `#f7f0eb`,
-        theme_color: `#a2466c`,
+        theme_color: `#e3bb5f`,
         display: `standalone`,
         icon: `static/assets/stackrole.png`,
       },
