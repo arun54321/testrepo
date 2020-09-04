@@ -50,6 +50,7 @@ module.exports = {
               tracedSVG: false,
               loading: "lazy",
               quality: 90,
+              backgroundColor: 'transparent',
             },
           },
           `gatsby-remark-responsive-iframe`,
