@@ -1,7 +1,6 @@
 backend:
   name: github
   repo: arun54321/testrepo
-  branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
     update: 'Update {{collection}} “{{slug}}”'
