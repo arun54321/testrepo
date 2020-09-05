@@ -36,6 +36,8 @@
     "gatsby-plugin-react-helmet": "^3.3.1",
     "gatsby-plugin-sass": "^2.3.1",
     "gatsby-plugin-sharp": "^2.6.3",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
+    "gatsby-plugin-your-fonts": "0.0.1",
     "gatsby-remark-images": "^3.3.3",
     "gatsby-remark-prismjs": "^3.5.1",
     "gatsby-remark-reading-time": "^1.1.0",

@@ -1,6 +1,9 @@
 @import "theme-variables";
 @import "defaults";
 @import "lib/css-grid-utility";
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script&display=swap');
+
+
 
 // .primary-container {
 // 	display: grid;
@@ -118,6 +121,7 @@
 		line-height: 48px;
 		margin: 0 0 5px;
 		font-weight: 900;
+		font-family: 'Kaushan Script', cursive;
 	}
 	.tagline {
 		font-size: 24px;
