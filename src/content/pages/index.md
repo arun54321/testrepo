@@ -1,8 +1,8 @@
 ---
 template: index-page
 slug: /
-title: MIMMY SAN
-tagline: Professional semi-street Doggo
+title: MIMMY MARU
+tagline: Professional Semi-street Doggo
 featuredImage: /assets/hero.jpg
 cta:
   ctaText: Kno mor about mee
