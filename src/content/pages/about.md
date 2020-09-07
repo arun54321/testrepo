@@ -8,7 +8,7 @@ title: About Me
 </div>
 <br>
 <div style="text-align: justify"> 
-&emsp; My owner kun gib me tasty bone treatos every sunday. I laik them bery much.I don't like kate. I bite small kattos and bark at big kate.
+&emsp; My owner poorni kun gib me tasty bone treatos every sunday. I laik them bery much.I don't like kate. I bite small kattos and bark at big kate.
 </div>
 
 ![Photho](/assets/about.jpg "Beuootyfool Me!")
