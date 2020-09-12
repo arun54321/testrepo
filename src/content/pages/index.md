@@ -8,5 +8,4 @@ cta:
   ctaText: Kno mor about mee
   ctaLink: /about
 ---
-I am Mimmy.
-Welcome to My blog.
+Welcome to Mimmy blog.
