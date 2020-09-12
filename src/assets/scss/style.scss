@@ -1,7 +1,8 @@
 @import "theme-variables";
 @import "defaults";
 @import "lib/css-grid-utility";
-@import url('https://fonts.googleapis.com/css?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 
 @font-face {
 	font-family: "futura";
@@ -9,13 +10,6 @@
 	font-display: swap;
   }
 
-
-@font-face {
-  font-family: 'Andrea Bellarosa';
-  src: url('../../fonts/ab.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
 
 
 // .primary-container {
@@ -134,7 +128,7 @@
 		line-height: 48px;
 		margin: 0 0 5px;
 		font-weight: 900;
-		font-family: 'Andrea Bellarosa';
+		font-family: 'Permanent Marker', cursive;
 	}
 	.tagline {
 		font-size: 24px;

@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: MIMMY MARU
+title: Mimmy Maru...
 tagline: Professional Semi-street Doggo
 featuredImage: /assets/hero.jpg
 cta:
