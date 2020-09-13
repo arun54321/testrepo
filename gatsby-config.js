@@ -48,8 +48,9 @@ module.exports = {
               showCaptions: true,
               linkImagesToOriginal: false,
               tracedSVG: true,
+              withWebp: true,
               loading: "lazy",
-              quality: 90,
+              quality: 75,
               backgroundColor: 'transparent',
             },
           },
@@ -73,7 +74,7 @@ module.exports = {
     },
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-netlify-cms`,
+    `netlify-cms-app`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
