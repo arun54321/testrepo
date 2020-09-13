@@ -44,10 +44,10 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 1024,
+              maxWidth: 1920,
               showCaptions: true,
               linkImagesToOriginal: false,
-              tracedSVG: false,
+              tracedSVG: true,
               loading: "lazy",
               quality: 90,
               backgroundColor: 'transparent',
@@ -94,5 +94,20 @@ module.exports = {
       },
     },
     'gatsby-plugin-offline',
+    {
+      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      options: {
+        fonts: [
+          {
+            family: `Kaushan Script`,
+            variants: [`400`],
+          },
+          {
+            family: `Permanent Marker`,
+            variants: [`400`]
+          },
+        ],
+      },
+    }
   ],
 }
